@@ -1,8 +1,6 @@
-# indigo-airlines-booking-data-analysis-using-Excel
-End-to-end data analysis of IndiGo Airlines booking data — revenue insights, hypothesis testing, and operational efficiency analysis using Excel &amp; PowerPoint.
 # ✈️ IndiGo Airlines – Booking Data Analysis
 
-> **A full end-to-end data analysis case study** on IndiGo Airlines' customer booking behaviour, revenue drivers, and operational efficiency — built using Excel (pivot tables & hypothesis sheets), and PowerPoint.
+> **A full end-to-end Data Analysis** on IndiGo Airlines' customer booking behaviour, revenue drivers, and operational efficiency — built using Excel (pivot tables & hypothesis sheets), and PowerPoint.
 
 ---
 
